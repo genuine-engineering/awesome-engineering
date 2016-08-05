@@ -6,7 +6,7 @@ Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằ
 
 # Các dự án: 
 
-- [iot-core] (https://github.com/genuine-engineering/iot-core-hw) - Đang triển khai 
+- [iot-core] (https://github.com/genuine-engineering/iot-core-hw) - Đang triển khai :construction_worker:
 - [stm32-libopencm3-gcc-boilerplate] (#)  - :cry: đang cập nhật
 - [stm8s-sdcc-boilerplace](#)  - :cry: đang cập nhật
 - [esp8266-nonos-sdk-boiperplate] (#)  - :cry: đang cập nhật
@@ -16,5 +16,5 @@ Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằ
 - [Biên dịch ESP8266 trên MAC El Capitan & Windows] (esp8266/compiler.md)
 - [Biên dịch STM32 sử dụng GCC cho MAC El Capitan & Windows] (stm32/compiler.md)  - :cry: đang cập nhật
 - [Sử dụng thư viện Libopencm3](stm32/libopencm3.md) - :cry: đang cập nhật
-- [Sử dụng Kicad](kicad/start.md)  - :cry: đang cập nhật
+- [Sử dụng Kicad](kicad/README.md)  - Đang phát triển :construction_worker:
 - [Setup Sublime Text - C code styles] (#) - :cry: Đang cập nhật
