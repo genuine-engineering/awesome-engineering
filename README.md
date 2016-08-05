@@ -4,17 +4,17 @@ Tất cả những kiến thức hữu ích được đóng góp sẽ được l
 
 Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằng Pull-Request
 
-# Các dự án: 
+# Các dự án và bài viết hướng dẫn: 
 
-- [iot-core] (https://github.com/genuine-engineering/iot-core-hw) - Đang triển khai :construction_worker:
+- [Setup Sublime Text - C code styles] (editor/README.md#sublime) - :cry: Đang cập nhật
+- iot-core:
+    + [iot-core-hw](https://github.com/genuine-engineering/iot-core-hw) - Đang triển khai - [@trinhduc](https://github.com/trinhduc)
+    + [iot-core-stm32-fw](https://github.com/genuine-engineering/iot-core-stm32-fw) - Đang triển khai - [@tuanpmt](https://github.com/tuanpmt)
+    + [iot-core-esp8266-fw](https://github.com/genuine-engineering/iot-core-esp8266-fw) - Đang triển khai - [@phult-ad](https://github.com/phult-ad), [@tuanpmt](https://github.com/tuanpmt)
 - [stm32-libopencm3-gcc-boilerplate] (#)  - :cry: đang cập nhật
 - [stm8s-sdcc-boilerplace](#)  - :cry: đang cập nhật
 - [esp8266-nonos-sdk-boiperplate] (#)  - :cry: đang cập nhật
-
-# Các bài viết hướng dẫn:
-
+- [Sử dụng Kicad](kicad/README.md)  - Đang phát triển [@nhantt92](https://github.com/nhantt92)
 - [Biên dịch ESP8266 trên MAC El Capitan & Windows] (esp8266/compiler.md)
 - [Biên dịch STM32 sử dụng GCC cho MAC El Capitan & Windows] (stm32/compiler.md)  - :cry: đang cập nhật
 - [Sử dụng thư viện Libopencm3](stm32/libopencm3.md) - :cry: đang cập nhật
-- [Sử dụng Kicad](kicad/README.md)  - Đang phát triển :construction_worker:
-- [Setup Sublime Text - C code styles] (#) - :cry: Đang cập nhật
