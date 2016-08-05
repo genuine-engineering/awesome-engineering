@@ -3,3 +3,10 @@
 Tất cả những kiến thức hữu ích được đóng góp sẽ được link đến Repository này, được phân loại, tổ chức, và nâng cấp theo thời gian.
 
 Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằng Pull-Request
+
+# Các dự án: 
+
+- [iot-core] (https://github.com/genuine-engineering/iot-core-hw) - Đang triển khai 
+
+
+# Các bài viết hướng dẫn:
