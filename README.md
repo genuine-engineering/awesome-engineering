@@ -16,5 +16,5 @@ Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằ
 - [Biên dịch ESP8266 trên MAC El Capitan & Windows] (esp8266/compiler.md)
 - [Biên dịch STM32 sử dụng GCC cho MAC El Capitan & Windows] (stm32/compiler.md)  - :cry: đang cập nhật
 - [Sử dụng thư viện Libopencm3](stm32/libopencm3.md) - :cry: đang cập nhật
-- [Sử dụng Kicad](kicad/started.md)  - :cry: đang cập nhật
+- [Sử dụng Kicad](kicad/start.md)  - :cry: đang cập nhật
 - [Setup Sublime Text - C code styles] (#) - :cry: Đang cập nhật
