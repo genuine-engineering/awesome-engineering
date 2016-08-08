@@ -10,3 +10,5 @@
 - From Meshlab, select File -> Export Mesh As -> Select *STL file
 
 **GitHub can host and render 3D files with the .stl extension**
+
+Sample: https://github.com/skalnik/secret-bear-clip/blob/master/stl/clip.stl
