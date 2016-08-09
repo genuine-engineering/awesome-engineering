@@ -19,3 +19,7 @@ Tất cả các kỹ sư muốn tham gia group đều có thể đóng góp bằ
 - [Biên dịch ESP8266 trên MAC El Capitan & Windows] (esp8266/compiler.md)
 - [Biên dịch STM32 sử dụng GCC cho MAC El Capitan & Windows] (stm32/compiler.md)  - :cry: đang cập nhật
 - [Sử dụng thư viện Libopencm3](stm32/libopencm3.md) - :cry: đang cập nhật
+
+## Hardware 
+- SPI Basic: http://maxembedded.com/2013/11/serial-peripheral-interface-spi-basics/ 
+- RS232 Basic: http://maxembedded.com/2013/09/serial-communication-rs232-basics/
