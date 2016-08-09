@@ -12,3 +12,7 @@
 **GitHub can host and render 3D files with the .stl extension**
 
 Sample: https://github.com/skalnik/secret-bear-clip/blob/master/stl/clip.stl
+
+## Using BOM Tool, get price list from Digitkey, Mouser ...
+
+https://kicost.readthedocs.io/en/latest/
