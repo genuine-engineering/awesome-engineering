@@ -9,13 +9,14 @@ Mục tiêu việc phát triển các nền tảng End Device để hỗ trợ s
 Ngay từ đầu, các nhà phát triển có thể thao tác trên các core này một cách dễ dàng. Khi ứng dụng có khả năng triển khai thực tế, có thể phát triển những core prototype này thành sản phẩm hoàn thiện.
 
 - WIFI - dự án wifi-iot-core (ESP8266 kết hợp STM32 giá rẻ, bổ sung khuyết điểm thiếu USB, thiếu Analog và IO cho ESP8266)
-    + [wifi-iot-core-hw](https://github.com/genuine-engineering/wifi-iot-core-stm32-hw) phần cứng vẽ bằng kicad 
+    + [wifi-iot-core-hw](https://github.com/genuine-engineering/wifi-iot-core-hw) phần cứng 
     + [wifi-iot-core-stm32-fw](https://github.com/genuine-engineering/wifi-iot-core-stm32-fw) firmware cho STM32, hỗ trợ CDC và auto detect sync frame, tự động chuyển ESP8255 sang chế độ nạp khi nhận sync frame từ esptool.py, hỗ trợ giao thức SLIP nhận lệnh thực thi từ ESP8266, trao đổi dữ liệu với PC ...
     + [wifi-iot-core-esp8266-fw](https://github.com/genuine-engineering/wifi-iot-core-esp8266-fw) firmware C base trên official SDK của Espressif, đảm bảo ổn định và dễ dàng nâng cấp.
     + [wifi-iot-core-app](https://github.com/genuine-engineering/wifi-iot-core-app) App react native ví dụ mẫu cho `smartconfig`
 
 - GSM/2G 
-    + 
+    + [gsm-iot-core-hw](https://github.com/genuine-engineering/gsm-iot-core-hw) 
+    + [mycropython](https://github.com/micropython/micropython) bổ sung thêm module PPP để hỗ trợ network dùng LWIP, bổ sung module SMS process, MQTT service in C
 - LoraWan  - dự án lora-iot-core - Chưa xác định 
 - Bluetooth LE - dự án ble-iot-core - Chưa xác định
 
