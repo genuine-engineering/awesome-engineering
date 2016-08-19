@@ -10,7 +10,7 @@ Ngay từ đầu, các nhà phát triển có thể thao tác trên các core n�
 
 - WIFI - dự án wifi-iot-core (ESP8266 kết hợp STM32 giá rẻ, bổ sung khuyết điểm thiếu USB, thiếu Analog và IO cho ESP8266)
     + [wifi-iot-core-hw](https://github.com/genuine-engineering/wifi-iot-core-hw) phần cứng 
-    + [wifi-iot-core-stm32-fw](https://github.com/genuine-engineering/wifi-iot-core-stm32-fw) firmware cho STM32, hỗ trợ CDC và auto detect sync frame, tự động chuyển ESP8255 sang chế độ nạp khi nhận sync frame từ esptool.py, hỗ trợ giao thức SLIP nhận lệnh thực thi từ ESP8266, trao đổi dữ liệu với PC ...
+    + [wifi-iot-core-stm32-fw](https://github.com/genuine-engineering/wifi-iot-core-stm32-fw) firmware cho STM32, hỗ trợ CDC và auto detect sync frame, tự động chuyển ESP8266 sang chế độ nạp khi nhận sync frame từ esptool.py, hỗ trợ giao thức SLIP nhận lệnh thực thi từ ESP8266, trao đổi dữ liệu với PC ...
     + [wifi-iot-core-esp8266-fw](https://github.com/genuine-engineering/wifi-iot-core-esp8266-fw) firmware C base trên official SDK của Espressif, đảm bảo ổn định và dễ dàng nâng cấp.
     + [wifi-iot-core-app](https://github.com/genuine-engineering/wifi-iot-core-app) App react native ví dụ mẫu cho `smartconfig`
 
