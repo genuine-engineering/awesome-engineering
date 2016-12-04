@@ -1,13 +1,4 @@
----
-author: vnarmyblog
-comments: true
-date: 2016-10-19 01:39:00+00:00
-layout: post
-link: https://vnarmyblog.wordpress.com/2016/10/19/cai-dat-esp-open-sdk-toolchain/
-slug: cai-dat-esp-open-sdk-toolchain
-title: Cài đặt esp-open-sdk toolchain
-wordpress_id: 24
----
+#   Cài đặt esp-open-sdk toolchain
 
 Hiện tại cộng đồng ESP đang chuyển qua dùng [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk) bởi vì phiên bản này dễ dàng cài đặt và update cũng như nó sử dụng các tool của open source, đặc biệt là bao gồm cả the superior libc. Do vậy ở đây tôi sẽ nói về việc cài đặt esp-open-sdk.
 
